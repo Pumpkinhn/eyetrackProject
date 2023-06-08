@@ -4,6 +4,8 @@
 
 ​		本项目基于tobii eyex controller眼动设备，设计并实现了术中主动注视点跟踪算法，以及基于主动注视的外视镜控制系统，包含获取眼动数据、误差校正、非主动眼动剔除、主动眼动识别等多项功能。
 
+​		项目git仓库地址：[Pumpkinhn/eyetrackProject (github.com)](https://github.com/Pumpkinhn/eyetrackProject)
+
 ## 硬件环境
 
 ​		本项目使用tobii eyex controller眼动设备，需自行使用磁吸固定在显示器下方。可连接win10、win11系统，通过use3.0接口连接，连接后前往官网下载驱动（[Tobii Gaming | Download or Setup Eye Tracking Software and Drivers](https://gaming.tobii.com/zh/getstarted/)）。下载后即可使用gaze tracking功能。
